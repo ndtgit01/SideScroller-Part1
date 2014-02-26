@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2282B7D1-906C-ACB5-E4B8-399E0D8E63B2}") = "SideScroller Part1", "Assembly-CSharp.csproj", "{04735A71-6ABB-3B0E-FDAE-6E6BD736FAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04735A71-6ABB-3B0E-FDAE-6E6BD736FAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04735A71-6ABB-3B0E-FDAE-6E6BD736FAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04735A71-6ABB-3B0E-FDAE-6E6BD736FAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04735A71-6ABB-3B0E-FDAE-6E6BD736FAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+							GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.TabsToSpaces = False
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabsToSpaces = False
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
